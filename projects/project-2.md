@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Android.png
 title: UH Room Availability App
 permalink: 
 # All dates must be YYYY-MM-DD format!
