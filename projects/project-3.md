@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: FileMaker/.jpg
+image: images/FileMaker.jpg
 title: UHM Curriculum Database
 permalink:
 # All dates must be YYYY-MM-DD format!
