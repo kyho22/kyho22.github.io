@@ -39,5 +39,5 @@ Symbol(const std::string& v) :
   
 ,,,
 
+Source: <a href="https://github.com/uhmanoa-transpiler-project/shaka-scheme"><i class="large github icon"></i>uhmanoa-transpiler-project/shaka-scheme</a>
 
-https://github.com/uhmanoa-transpiler-project/shaka-scheme
