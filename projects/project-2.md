@@ -12,7 +12,7 @@ labels:
   - SQLite Database
   - GitHub
   - ParseHub
-summary: An Android application that recognizes classrooms from the Android camera using Google's image recognition model.
+summary: An Android application that uses machine learning to recognize classrooms and display their relevant information.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
