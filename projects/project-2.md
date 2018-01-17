@@ -23,4 +23,4 @@ The application utilizes a TensorFlow image recognition model to identify what c
 
 My responsibilities in this project was parsing data from our school's class availability website, creating an SQLite database to store information about each course, and create the display to show the results from the image recognition model. In this project I gained experience with mobile application development, HTML parsing, and SQLite databases.      
  
-Source: <a href="https://github.com/kekupua/EE396"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/kekupua/EE396"><i class="large github icon"></i>UHRoomAvailabilityApp</a>
