@@ -25,18 +25,23 @@ For this project, I was part of the core-systems team which handles the core eva
 
 Here is some code that illustrates how we implemented the symbol datatype:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+,,,
+ Symbol(const std::string& v) :
+      value(v) {}
 
+  friend void swap (shaka::Symbol& lhs, shaka::Symbol& rhs) {
+    using std::swap;
+
+    swap(lhs.value, rhs.value);
+  }
+
+  shaka::Symbol operator= (shaka::Symbol other) {
+    shaka::Symbol temp(other);
+    swap(*this, other);
+
+    return *this;
+  }
+,,,
 
 
 
