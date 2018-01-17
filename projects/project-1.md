@@ -26,7 +26,8 @@ For this project, I was part of the core-systems team which handles the core eva
 Here is some code that illustrates how we implemented the symbol datatype:
 
 ,,,
- Symbol(const std::string& v) :
+
+Symbol(const std::string& v) :
       value(v) {}
 
   friend void swap (shaka::Symbol& lhs, shaka::Symbol& rhs) {
@@ -41,6 +42,7 @@ Here is some code that illustrates how we implemented the symbol datatype:
 
     return *this;
   }
+  
 ,,,
 
 
