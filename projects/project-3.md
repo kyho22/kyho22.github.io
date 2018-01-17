@@ -16,8 +16,6 @@ summary: A database used to keep track of course records for the College of Natu
 
 The UHM Curriculum Database is a database system I designed and built using FileMaker Pro 16 as a part of my job for the College of Natural Sciences. It is used to manage and archive all curriculum changes for all the departments under the college since 1986. 
 
-Here is some code that illustrates how we implemented the symbol datatype:
-
 ,,,
 
 ,,,
