@@ -2,24 +2,25 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: UH Room Availability App
+permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-08-22
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Android Studio
+  - TensorFlow
+  - SQLite Database
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - ParseHub
+summary: An Android application that recognizes classrooms from the Android camera using Google's image recognition model.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The UH Room Availability App is an Android application I helped create for my EE396 project. The project helped me learn how to develop and design an android application.    
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The application utilizes a TensorFlow image recognition model to identify what classroom is shown through Android camera; then it displays what classes are occupying that room for the day. TensorFlow is a deep neural network created by Google to perform tasks by constant training and positive reinforcements. The application was written in Java using Android Studio, an integrated development environment for Google's Android mobile operating system. Data was parsed from the UH Manoa Class Availability Website using an HTML parser called ParseHub and stored in an SQLite database.            
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+My responsibilities in this project was parsing data from our school's class availability website, creating an SQLite database to store information about each course, and create the display to show the results from the image recognition model. In this project I gained experience with mobile application development, HTML parsing, and SQLite databases.      
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/kekupua/EE396"><i class="large github icon"></i>theVacay/vacay</a>
