@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Scheme.jpg
+image: images/Scheme.png
 title: Shaka Scheme Project
 permalink:
 # All dates must be YYYY-MM-DD format!
@@ -10,7 +10,7 @@ labels:
   - Scheme
   - C++
   - MinGW
-summary: An R7R Scheme implementation in C++.
+summary: A clean implementation of R7RS-small Scheme written in C++.
 ---
 
 The Shaka Scheme project is a scheme interpreter written in C++ built using the MinGW environment. Our goal was do a clean implementation of R7RS-small Scheme. The project was broken up into two teams, Parsing-IO and Core Systems. The Parsing-IO team was responsible for the the front-end systems which includes organizing user input into a structure for procedure calls and evaluators. The Core Systems team was responsible for the vital systems, data structures, and algorithms for things that Scheme relies on that cannot be coded into Scheme itself such as conditional statements, functions, environments, and memory management.       
