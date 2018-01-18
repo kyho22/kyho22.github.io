@@ -16,10 +16,9 @@ The UHM Curriculum Database is a database system I designed and built using File
 
 Here are some pictures showing what the database system looks like and some of its features (the course information below is made up just to show how it works):
 
-<h>
-This is the main contents page where the current information of the course is displayed.  
+This is the main contents page where the current information of the course is displayed. <br  />  
 
-<img class="ui medium right floated rounded image" src="../images/UHMCoursePage.png">
+<img class="ui medium right floated rounded image" src="../images/UHMCoursePage.png"> <br  />
 --------------------------------------------------------------------------------------------------------------------------------------
 
 There is also a history log of each course and how it has changed over time.
@@ -31,4 +30,4 @@ Shown below is the navigation page that displays every single course so far. In 
 
 <img class="ui medium left floated rounded image" src="../images/UHMListPage.png">
 --------------------------------------------------------------------------------------------------------------------------------------
-</h>
+
