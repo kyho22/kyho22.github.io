@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Android.png
+image: images/AndroidIcon.png
 title: UH Room Availability App
 permalink: 
 # All dates must be YYYY-MM-DD format!
@@ -15,7 +15,8 @@ labels:
 summary: An Android application that uses machine learning to recognize classrooms and display their relevant information.
 ---
 
-<img class="ui image" src="../images/UHMListPage.png">  
+<img class="ui image" src="../images/rooms_1.png">
+<img class="ui image" src="../images/rooms_2.png">
 
 The UH Room Availability App is an Android application I helped create for my EE396 project. The project helped me learn how to develop and design an android application.    
 
