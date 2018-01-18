@@ -20,9 +20,9 @@ This is the main contents page where the current information of the course is di
 Shown below is the navigation page that displays every single course so far. In actual use, this page holds thousands of records which can be filtered out to show any specific record(s).
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/UHMCoursePage.png">
-  <img class="ui image" src="../images/UHMHistoryPage.png">
-  <img class="ui image" src="../images/UHMListPage.png">
+  <img class="ui image" src="../images/UHMCoursePage.png"> . 
+  <img class="ui image" src="../images/UHMHistoryPage.png"> . 
+  <img class="ui image" src="../images/UHMListPage.png"> . 
 </div>
 
 
