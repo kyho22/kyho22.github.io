@@ -15,7 +15,7 @@ labels:
 summary: An Android application that uses machine learning to recognize classrooms and display their relevant information.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui image" src="../images/UHMListPage.png">  
 
 The UH Room Availability App is an Android application I helped create for my EE396 project. The project helped me learn how to develop and design an android application.    
 
