@@ -21,10 +21,21 @@ This is the main contents page where the current information of the course is di
 <img class="ui medium right floated rounded image" src="../images/UHMCoursePage.png">
 --------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
+
+
 There is also a history log of each course and how it has changed over time.
 
 <img class="ui medium top floated rounded image" src="../images/UHMHistoryPage.png">
 --------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
 
 Shown below is the navigation page that displays every single course so far. In actual use, this page holds thousands of records which can be filtered out to show any specific record(s).
 
