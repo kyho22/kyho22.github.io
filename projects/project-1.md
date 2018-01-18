@@ -21,7 +21,7 @@ For this project, I was part of the core-systems team which handles the core eva
 
 Here is some code that illustrates how we implemented the symbol datatype:
 
-,,,
+```
 
 **Symbol**(const std::string& v) :
       value(v) {}
@@ -37,7 +37,7 @@ Here is some code that illustrates how we implemented the symbol datatype:
     return *this;
   }
   
-,,,
+```
 
 Source: <a href="https://github.com/uhmanoa-transpiler-project/shaka-scheme"><i class="large github icon"></i>uhmanoa-transpiler-project/shaka-scheme</a>
 
