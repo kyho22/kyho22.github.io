@@ -21,19 +21,17 @@ Here is some code that illustrates how we implemented the symbol datatype:
 
 ,,,
 
-Symbol(const std::string& v) :
+**Symbol**(const std::string& v) :
       value(v) {}
 
-  friend void swap (shaka::Symbol& lhs, shaka::Symbol& rhs) {
+  **friend void** swap (shaka::Symbol& lhs, shaka::Symbol& rhs) {
     using std::swap;
-
     swap(lhs.value, rhs.value);
   }
 
-  shaka::Symbol operator= (shaka::Symbol other) {
-    shaka::Symbol temp(other);
+  **shaka::Symbol operator**= (shaka::Symbol other) {
+  **shaka::Symbol** temp(other);
     swap(*this, other);
-
     return *this;
   }
   
