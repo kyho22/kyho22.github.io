@@ -9,7 +9,7 @@
     "summary": "I am a student under the College of Engineering at the University of Hawaii at Manoa.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96812",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -51,33 +51,41 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Verilog",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java",
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "FileMaker",
+        "Xilinx WEBPack",
+        "ParseHub",
+        "Android Studios",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "MacOS",
+        "UNIX"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-08-24",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.59",
+      "courses": [ 
+        "Digital Systems and Computer Design",
+        "Object Oriented Programming",
+        "Data Strutures and Algorithms",
+        "Discrete Mathematics",
+        "Systems and Signals Analysis"
       ]
     }
   ],
