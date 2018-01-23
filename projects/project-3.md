@@ -19,10 +19,11 @@ Here are some pictures showing what the database system looks like and some of i
 This is the main contents page where the current information of the course is displayed. 
 There is also a history log of each course and how it has changed over time.  
 
-<img class="ui medium left rounded image" src="../images/UHMCoursePage.png">
-<img class="ui medium right rounded image" src="../images/UHMHistoryPage.png">     
+<img class="ui medium left floated rounded image" src="../images/UHMCoursePage.png">
 
+<img class="ui medium right floated rounded image" src="../images/UHMHistoryPage.png">     
 Shown below is the navigation page that displays every single course so far.
+
 In actual use, this page holds thousands of records which can be filtered out to show any specific record(s).  
 
 <img class="ui image" src="../images/UHMListPage.png">  
