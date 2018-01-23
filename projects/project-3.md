@@ -18,7 +18,7 @@ Here are some pictures showing what the database system looks like and some of i
 
 This is the main contents page where the current information of the course is displayed. 
 
-<img class="ui center medium image" src="../images/UHMCoursePage.png">     
+<img class="ui middle medium image" src="../images/UHMCoursePage.png">     
 
 There is also a history log of each course and how it has changed over time.  
 
