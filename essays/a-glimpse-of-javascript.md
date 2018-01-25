@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Glimpse of Javascript
+title: Error 404: Datatypes Not Found!
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-17
 labels:
