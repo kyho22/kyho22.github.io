@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Questions! Questions? Quesitons.
+title: Questions! Questions? Questions.
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-24
 labels:
