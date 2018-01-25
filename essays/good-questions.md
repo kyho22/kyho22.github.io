@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Questions? Questions. Quesitons!
+title: Questions? Questions! Quesitons.
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-24
 labels:
@@ -22,7 +22,7 @@ On the other hand, this question linked below shows an example of a good questio
 
 Source: <a href="https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array">StackOverflow-SortedArraysAreFasterAtProcessing</a>
 
-## My Personal Take
+## My Personal Take.
 Questions are a very important way of expressing your interests about a topic. Whenever I go and ask questions, I always take into consideration other people's time; I ask myself if my question is worth their time answering, and if I had tried I could to figure it out myself. Asking questions is essential to learning something however you have to struggle through it and try it yourself first, not immediately giving up and having someone else do your dirty work. By asking smarter questions, everyone else can benefit from it instead of just you, and it doesn't waste anyone else's time when answering them.   
 
 Source: <a href="http://www.catb.org/esr/faqs/smart-questions.html">Eric-Raymond's-Essay</a>
