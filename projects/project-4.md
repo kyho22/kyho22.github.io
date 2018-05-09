@@ -1,30 +1,29 @@
 ---
 layout: project
 type: project
-image: images/FileMaker.jpg
-title: UHM Curriculum Database
+image: images/quest-for-g-book.jpg
+title: Quest Boards
 permalink:
 # All dates must be YYYY-MM-DD format!
-date: 2017-06-07
+date: 2018-05-04
 labels:
-  - FileMaker Pro 16
-  - FileMaker Server
-summary: A database used to keep track of course records for the College of Natural Sciences
+  - CSS
+  - Meteor
+  - React
+  - Semantic UI
+summary: A site used to manage short term jobs.
 ---
 
-The UHM Curriculum Database is a database system I designed and built using FileMaker Pro 16 as a part of my job for the College of Natural Sciences. It is used to manage and archive all curriculum changes for all the departments under the college since 1986. 
+Quest boards is a website that me and two other teammates have worked on. The purpose of short term jobs is to allow users to manage jobs by keeping track of the jobs that they posted or have accepted. Our jobs are named as quests on this site.    
 
-Here are some pictures showing what the database system looks like and some of its features (the course information below is made up just to show how it works):
+Here are some pictures showing what the site has to offer:
 
-This is the main contents page where the current information of the course is displayed. 
-There is also a history log of each course and how it has changed over time.  
+This is the main page where all the quests are displayed. Available quests can be requested if you want to take the job, and pending quests are ones that are currently taken by someone else. You can also create your own quests as well for others to take.    
 
-<img class="ui medium left floated rounded image" src="../images/UHMCoursePage.png">
+<img class="ui medium left floated rounded image" src="../images/AvailableQuests.png">
 
-<img class="ui medium right rounded image" src="../images/UHMHistoryPage.png">       
+<img class="ui medium right rounded image" src="../images/Create.png">       
 
-Shown below is the navigation page that displays every single course so far.
+There is also a page where you can make your own profile and customize it for others to view. You can add skills, change your profile picture, and display what quests you currently have taken, and quests that are completed.  
 
-In actual use, this page holds thousands of records which can be filtered out to show any specific record(s).  
-
-<img class="ui image" src="../images/UHMListPage.png">  
+<img class="ui image" src="../images/Profile.png">  
